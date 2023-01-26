@@ -3,9 +3,9 @@ Ce projet basé sur la reconnaissance d'image en IA, détecte si oui ou non une 
 
 Les compétences clés développées dans ce projet sont :
 
--Intelligence Artificielle
+.Intelligence Artificielle
 
--Python
+.Python
 
 MERCI BEAUCOUP !
 
